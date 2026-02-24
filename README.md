@@ -26,3 +26,7 @@ The following images shows the simulation interacting with Adafruit. The status 
 <img width="1282" height="786" alt="Screenshot 2026-02-22 232400" src="https://github.com/user-attachments/assets/a3789dd0-a525-4973-b58b-3506aaf45b2e" />
 <img width="1377" height="912" alt="Screenshot 2026-02-22 232513" src="https://github.com/user-attachments/assets/a857c7d8-184e-4ce8-96f8-f566fa35e2cf" />
 
+
+https://wokwi.com/projects/456685829836549121
+
+
